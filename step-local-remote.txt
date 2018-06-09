@@ -1,0 +1,8 @@
+# Strong
+1. git init (in folder local)
+2. git remote -v  # check remote origin
+3. if has(origin) -> git remote remove origin  { git remote remove origin}copy same
+4. create repository on GitHub copy link
+5. git remote add origin <<link_git_hub>>
+6. again back step 2 -> see result
+7. git push -u origin master
